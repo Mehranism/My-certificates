@@ -1,6 +1,6 @@
 # My Certificates
 
-I would like to express my gratitude to [Coursera](https://www.linkedin.com/company/coursera) for their invaluable contribution to my personal and professional development journey. For approximately 5 to 6 years, I have been self-learning Python programming and data analytics, engaging in various projects within these fields. However, despite acquiring knowledge through online courses, I lacked tangible credentials to validate my expertise.
+I would like to express my gratitude to [Coursera](https://www.coursera.org) for their invaluable contribution to my personal and professional development journey. For approximately 5 to 6 years, I have been self-learning Python programming and data analytics, engaging in various projects within these fields. However, despite acquiring knowledge through online courses, I lacked tangible credentials to validate my expertise.
 
 Thanks to Coursera's exceptional Black Friday discount and their remarkable platform, I took advantage of the opportunity and obtained Certificates for my skills in Python, data analytics, and backend development. These certificates serve as a testament to the abilities I have cultivated over the years. I am truly grateful for Coursera's commitment to individuals like me, who strive to acquire skills but face challenges such as payment restrictions and currency differences, especially for those residing in Iran.
 
